@@ -1,6 +1,6 @@
 ### Blisterback
 
-HP: 12, Armor: 8, STR: 12, DEX: 8, WIL: 6 (d8, sharp claws and tail, caustic venom)
+12 HP, 3 Armor, 12 STR, 8 DEX, 6 WIL (d8, sharp claws and tail, caustic venom)
 
 - Blisterback is a large, quadrupedal creature with a tough, scaly hide. Its tail is tipped with a venomous barb that can cause severe burns.
 - Blisterback is able to produce a corrosive venom that can melt through armor.

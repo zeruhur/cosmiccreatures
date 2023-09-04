@@ -1,5 +1,6 @@
 ### Bioelemental
-9 HP, 3 Armor, 6 STR, 6 DEX, 12 WIL, Elemental Mastery (dX, Fire Generation, Water Manipulation, Earthquakes, Storm Creation)
+
+10 HP, 1 Armor, 10 STR, 14 DEX, 16 WIL, Elemental Mastery (d8, Fire Blast; d10 Earthwave Shock, blast; d12 Lightining Storm, blast)
 
 - A living creature that commands natural elements. Capable of generating fire, manipulating water, causing earthquakes, and conjuring storms.
 - Its connection to the elements grants it a diverse range of powers, making it a formidable force in various environments.

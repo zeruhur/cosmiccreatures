@@ -1,5 +1,6 @@
 ### Chaotic Fungus
-6 HP, 2 Armor, 4 STR, 6 DEX, 8 WIL, Toxic Spores, Immobilizing Tentacles, Rapid Regeneration, Environmental Adaptation
+
+4 HP, 1 Armor, 12 STR, 10 DEX, 8 WIL, (d8, Immobilizing Tentacles; d4, Toxic Spores, blast)
 
 - A mutant fungus with toxic spores and tentacles that can immobilize prey. Capable of rapid regeneration and adapting to various environmental conditions.
 - Its ever-changing form and poisonous abilities make it a hazardous and adaptable opponent.

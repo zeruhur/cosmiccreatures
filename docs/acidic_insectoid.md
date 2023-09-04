@@ -1,5 +1,5 @@
 ### Acidic Insectoid
-5 HP, 1 Armor, 4 STR, 8 DEX, 6 WIL, Corrosive Acid Spray, Rapid Evasion, Multi-angle Attacks
+2 HP, 0 Armor, 8 STR, 12 DEX, 6 WIL, (d6 Corrosive Acid Spray,, Multi-angle Attacks)
 
 - A mutant insect that sprays corrosive acid. Can quickly evade and attack from various angles.
 - Its ability to launch acidic attacks and maneuver swiftly makes it a nimble and hazardous adversary.
