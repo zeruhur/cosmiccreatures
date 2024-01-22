@@ -1,5 +1,6 @@
 ### Mecha-Scorpion
-8 HP, 3 Armor, 6 STR, 6 DEX, 6 WIL, Giant Mechanical Scorpion, Reinforced Exoskeleton, Venomous Tail, Explosive Claw Missiles
+
+8 HP, 3 Armor, 12 STR, 6 DEX, 6 WIL, Venomous Tail (d6, poison), Explosive Claw Missiles (d8, blast)
 
 - A massive mechanical scorpion with a reinforced exoskeleton. Possesses a venomous tail and can shoot explosive missiles from its claws.
 - Its blend of natural traits and advanced weaponry makes it a versatile and formidable adversary.

@@ -1,5 +1,6 @@
 ### Mecha-Centaur
-8 HP, 3 Armor, 8 STR, 6 DEX, 6 WIL, Mythical Creature-Machine Hybrid, Mechanical Limbs, Chest-mounted Cannon, Devastating Charges
+
+8 HP, 1 Armor, 8 STR, 10 DEX, 6 WIL, Cannon (d10)
 
 - A fusion of machine and mythical creature, equipped with four mechanical legs and a chest-mounted cannon. Can charge with devastating force.
 - Its unique combination of mythical traits and advanced machinery makes it a fearsome opponent on the battlefield.

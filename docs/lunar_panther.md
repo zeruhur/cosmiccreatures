@@ -1,6 +1,6 @@
 ### Lunar Panther
 
-6 HP, 4 Armor, 8 STR, 14 DEX, 8 WIL, Weapon (d6, lunar claws, stealth)
+6 HP, 1 Armor, 8 STR, 14 DEX, 8 WIL, Lunar Claws (d6, stealth)
 
 - Lunar Panther is a quadrupedal creature with sleek black fur and glowing blue eyes. Its body is able to blend in with the shadows, making it hard to spot.
 - Lunar Panther is able to move silently and becomes invisible in the shadows, making it a formidable hunter.
