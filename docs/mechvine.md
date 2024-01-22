@@ -1,6 +1,6 @@
 ### Mechvine
 
-9 HP, 3 Armor, X STR, X DEX, X WIL, Massive Mechanical Plant Crawling on the Ground, Razor-sharp Roots, Destructive Laser Beams
+9 HP, 3 Armor, X STR, X DEX, X WIL, Razor-sharp Roots (d6), Destructive Laser Beams (d8)
 
 - Enormous Mechanical Flora with Crawling Movement
 - Rooted Assault: Equipped with razor-sharp roots for close-quarter attacks and entanglement.

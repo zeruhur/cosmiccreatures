@@ -1,5 +1,6 @@
 ### Nano-Swarm
-4 HP, 1 Armor, 3 STR, 7 DEX, 4 WIL, Self-Organizing Nanobots
+
+4 HP, 1 Armor, 8 STR, 12 DEX, 14 WIL, Self-Organizing Nanobots (d6)
 
 - A collection of self-organizing nanobots that form a constantly shifting mass. Can attack and disassemble objects or enemies with microscopic precision.
 - Its ability to manipulate matter at the nanoscale and its collective intelligence make it a unique and adaptable opponent.

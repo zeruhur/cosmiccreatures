@@ -1,5 +1,6 @@
 ### Mutated Humanoid
-8 HP, 3 Armor, 6 STR, 4 DEX, 4 WIL, Razor-sharp Claws
+
+8 HP, 3 Armor, 6 STR, 4 DEX, 4 WIL, Razor-sharp Claws (d8)
 
 - A mutated humanoid with sharp claws and superhuman strength. Can regenerate rapidly and inflict bloody wounds on enemies.
 - Its physical mutations and regenerative capabilities make it a fearsome opponent in close combat.
