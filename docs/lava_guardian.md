@@ -1,5 +1,6 @@
 ### Lava Guardian
-7 HP, 2 Armor, 6 STR, 6 DEX, 6 WIL, Living Magma Composition, Lava Flows, Walls of Fire, Fiery Projectile Attacks
+
+7 HP, 2 Armor, 6 STR, 6 DEX, 6 WIL, Projectile Attacks (d6, ranged), Lava Flows (d10, blast)
 
 - A creature made of living magma. Can generate lava flows, create walls of fire, and launch fiery projectiles against enemies.
 - Its molten form and control over fire and heat make it a dangerous adversary in volcanic environments.

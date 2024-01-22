@@ -1,6 +1,6 @@
 ### Cyberspawn
 
-HP: 8, Armor: 4, STR: 8, DEX: 8, WIL: 12 (d8, hacking claws, cybernetic enhancements)
+8 HP, 4 Armor, 8 STR, 8 DEX, 12 WIL, Hacking Claws (d8)
 
 - Cyberspawn is a humanoid creature with robotic enhancements. It has sharp claws and advanced hacking abilities.
 - Cyberspawn is able to hack and control nearby technology, making it a formidable opponent in a high-tech environment.

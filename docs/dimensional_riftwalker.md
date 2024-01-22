@@ -1,5 +1,6 @@
 ### Dimensional Riftwalker
-7 HP, 2 Armor, 4 STR, 8 DEX, 6 WIL, Dimensional Portal Manipulation, Instant Teleportation, Extradimensional Blades
+
+7 HP, 2 Armor, 4 STR, 8 DEX, 6 WIL, Extradimensional Blades (d8), Dimensional Rift (d10, blast)
 
 - A creature capable of opening dimensional portals. Can teleport instantly and attack with extradimensional blades.
 - Its ability to manipulate space and traverse dimensions makes it a highly mobile and elusive adversary.

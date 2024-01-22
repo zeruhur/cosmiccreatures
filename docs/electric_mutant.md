@@ -1,5 +1,6 @@
 ### Electric Mutant
-9 HP, 3 Armor, 6 STR, 6 DEX, 4 WIL, Electric Discharges
+
+6 HP, 2 Armor, 8 STR, 10 DEX, 8 WIL, Electric Discharges (d8, blast)
 
 - A being with the power to manipulate electricity. Can generate electric shocks, create defensive energy fields, and paralyze enemies with a single touch.
 - Its control over electrical energy and formidable defensive capabilities make it a dangerous opponent.

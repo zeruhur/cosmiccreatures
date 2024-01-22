@@ -1,5 +1,6 @@
 ### Hologram Nightmare
-6 HP, 2 Armor, 4 STR, 8 DEX, 6 WIL, Holographic Projection, Terrifying Illusions, Light Claw Attacks, Emotional Manipulation
+
+6 HP, 2 Armor, 4 STR, 8 DEX, 6 WIL, Light Claw Attacks (d6)
 
 - A creature generated from holographic projections. Can create terrifying illusions, attack with light claws, and manipulate the emotions of its enemies.
 - Its ability to distort perception and manipulate emotions makes it a mentally challenging and unsettling adversary.

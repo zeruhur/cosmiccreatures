@@ -1,6 +1,6 @@
 ### Energy Wasp
 
-6 HP, 2 Armor, 6 STR, 14 DEX, 10 WIL, Weapon (d6, energy stinger, energy blast)
+3 HP, 2 Armor, 6 STR, 12 DEX, 10 WIL, Energy Stinger (d6), Energy Blast (d8, blast)
 
 - Energy Wasp is a small, insectoid creature with a bright, glowing body. It can fire powerful blasts of energy from its stinger.
 - Energy Wasp is fast and agile, able to fly and dodge attacks easily.

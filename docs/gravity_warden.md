@@ -1,5 +1,6 @@
 ### Gravity Warden
-9 HP, 3 Armor, 6 STR, 6 DEX, 10 WIL, Gravity Manipulation (dX, Gravitational Vortexes, Crushing Force)
+
+4 HP, 3 Armor, 8 STR, 10 DEX, 14 WIL, Gravitational Vortexes (d10)
 
 - A creature capable of manipulating gravitational fields. Can create gravitational vortexes and crush enemies with immense force.
 - Its mastery over gravity allows it to control the battlefield and exert dominance over opponents.

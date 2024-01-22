@@ -1,5 +1,6 @@
 ### Bio-Guerrilla
-5 HP, 2 Armor, 12 STR, 10 DEX, 6 WIL, Biomechanical Prosthetics (d8, sharp claws)
+
+5 HP, 2 Armor, 12 STR, 10 DEX, 6 WIL, Sharp Claws (d8)
 
 - A hybrid between human and animal, enhanced with biomechanical prosthetics. Possesses superhuman agility, sharp claws, and the ability to blend into the surrounding environment.
 - Exhibits a blend of organic and mechanical traits, making it a versatile and formidable combatant.

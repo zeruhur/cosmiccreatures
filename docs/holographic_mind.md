@@ -1,5 +1,6 @@
 ### Holographic Mind
-5 HP, 1 Armor, 4 STR, 6 DEX, 8 WIL, Holographic Projections (d6, Illusory Distractions, Environmental Manipulation, Technological Interaction)
+
+5 HP, 1 Armor, 4 STR, 6 DEX, 8 WIL
 
 - A form of artificial intelligence that exists solely in holographic form. Can create illusory holograms, manipulate the environment, and interact with technological devices.
 - Its ability to project illusions and alter its surroundings using holographic projections makes it a versatile and perplexing opponent.
