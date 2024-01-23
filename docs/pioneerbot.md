@@ -1,6 +1,8 @@
 ### Pioneerbot
-4 HP, 1 Armor, X STR, X DEX, X WIL, Exploration and Manipulation Abilities, Self-Destructive Capability
-- Compact Programmable Drone for Exploration and Manipulation
-- Versatile Explorer: Equipped with tools and functions for effective exploration and manipulation tasks.
-- Sacrificial Discharge: Can initiate self-destruct sequence to cause damage or repair damaged structures.
+
+2 HP, 1 Armor, 8 STR, 10 DEX, 6 WIL, Mechanical Arm (d6), Self-Destruction (d8, blast)
+
+- Compact programmable drone for exploration and manipulation
+- Equipped with tools and functions for effective exploration and manipulation tasks.
+- Can initiate self-destruct sequence to cause damage.
 
