@@ -1,5 +1,6 @@
 ### Psychic Mutant
-8 HP, 3 Armor, 4 STR, 6 DEX, 8 WIL, Psionic Abilities
+
+6 HP, 03 Armor, 8 STR, 12 DEX, 16 WIL, Psionic Explosion (d8, blast)
 
 - A being with extraordinary mental powers. Can read and manipulate the minds of others, create illusions, and unleash psionic explosions.
 - Its formidable psychic abilities and mental manipulation make it a formidable adversary.

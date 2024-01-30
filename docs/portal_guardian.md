@@ -1,5 +1,6 @@
 ### Portal Guardian
-8 HP, 3 Armor, 6 STR, 6 DEX, 8 WIL, Immaterial Nature, Space-Time Manipulation, Powerful Energy Discharges
+
+8 HP, 0 Armor, 10 STR, 12 DEX, 10 WIL, Energy Discharges (d8), Dimensional Rift (d8, blast)
 
 - An immaterial creature that guards dimensional portals. Can manipulate the fabric of space-time and attack with powerful energy discharges.
 - Its ethereal form and control over the fundamental forces of reality make it a formidable protector of the portals it oversees.

@@ -1,5 +1,6 @@
 ### Warping Hologram
-4 HP, 1 Armor, 2 STR, 7 DEX, 5 WIL, Reality Manipulation
+
+4 HP, 1 Armor, 10 STR, 14 DEX, 12 WIL, Attack (d6)
 
 - A holographic entity capable of altering the perception of reality. Can create illusions, teleport, and leave opponents confused.
 - Its ability to warp reality and deceive the senses make it a master of misdirection and surprise.

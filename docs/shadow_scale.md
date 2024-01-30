@@ -1,6 +1,8 @@
 ### Shadow Scale
-6 HP, 2 Armor, STR 10, DEX 14, WIL 12, Stealthy Creature Wrapped in Dark Shadow, Shadow Melding, Venomous Claw Attacks
-- Elusive Entity Veiled by Enveloping Shadows
+
+3 HP, 2 Armor, STR 10, DEX 14, WIL 12, Venomous Claws (d6, poison)
+
+- Elusive entity veiled by enveloping shadows.
 - Shadowmeld: Can blend into the surrounding shadows to become nearly invisible.
 - Venomous Strikes: Capable of launching venom-infused claw attacks for offense.
 

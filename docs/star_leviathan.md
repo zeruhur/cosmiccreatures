@@ -1,7 +1,8 @@
 ### Star Leviathan
-8 HP, 3 Armor, 6 STR, 6 DEX, 6 WIL, Gigantic Cosmic Creature, Armored Skin, Intense Gravity Fields, Starlight Energy Beams
+
+14 HP, 3 Armor, 16 STR, 8 DEX, 8 WIL, Starlight Energy Beams (d10, blast), Gravitational Anomaly (d12, blast)
 
 - A colossal space creature with armored skin and cosmic tentacles. Can generate intense gravity fields and spew beams of starlight energy.
 - Its immense cosmic presence and ability to manipulate gravity make it a force to be reckoned with.
-- When critically damaged, disrupts the fabric of space, creating an unstable gravitational anomaly that draws in and damages nearby enemies, while also using the gravitational energy to fortify its own resilience.
+- When critically damaged, disrupts the fabric of space, creating an unstable gravitational anomaly that draws in and damages nearby enemies.
 

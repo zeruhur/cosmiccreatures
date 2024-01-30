@@ -1,5 +1,6 @@
 ### Spy Exoskeleton
-8 HP, 3 Armor, 4 STR, 10 DEX, 6 WIL, Infiltration Programming, Camouflage, Electromagnetic Pulses, Poisonous Dart Launchers
+
+3 HP, 2 Armor, 10 STR, 12 DEX, 6 WIL, Poisonous Darts (d6, poison, ranged), Electromagnetic Pulses (d8, stun)
 
 - A biomechanical insectoid programmed for infiltration. Capable of camouflaging itself with the environment, emitting electromagnetic pulses, and launching poisonous darts.
 - Its agility and covert capabilities make it a stealthy and cunning operative in espionage and sabotage missions.

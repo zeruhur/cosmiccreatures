@@ -1,6 +1,7 @@
 ### Reactoroid
-9 HP, 3 Armor, X STR, X DEX, X WIL, Fusion Core Entity (generate devastating energy fields, launch plasma explosions)
-- Massive Energy Creature Fueled by Fusion Core
-- Cataclysmic Emanations: Capable of generating energy fields with catastrophic impact.
-- Plasma Eruption: Can launch explosive bursts of searing plasma with destructive potential.
 
+12 HP, 3 Armor, 14 STR, 16 DEX, 12 WIL, Plasma Eruption (2d8, blast), Cataclysmic Emanations (2d12, blast), 
+
+- Massive energy creature fueled by fusion core.
+- Can launch explosive bursts of searing plasma with destructive potential.
+- When critically damaged, it generates an energy field with catastrophic impact.

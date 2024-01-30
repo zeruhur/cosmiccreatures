@@ -1,5 +1,6 @@
 ### Venomous Essence
-7 HP, 2 Armor, 4 STR, 8 DEX, 6 WIL, Shapeshifting, Toxic Poisoning (dX, Poisonous Attacks), Liquid Sliding, Regeneration
+
+6 HP, 0 Armor, 10 STR, 16 DEX, 10 WIL, Toxic Poisoning (d6), Corrosive Puddle (d8)
 
 - A liquid creature capable of changing its form. Can poison enemies with toxic substances, slip through cracks, and regenerate in liquid form.
 - Its fluidic nature and venomous attacks make it an unpredictable and dangerous adversary in confined spaces.

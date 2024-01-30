@@ -1,6 +1,8 @@
 ### Void Parasite
-7 HP, 2 Armor, X STR, X DEX, X WIL, Life-Draining Abilities (sap vitality, self-regeneration)
-- Creature Feeding on Vital Energy
-- Vital Drain: Capable of siphoning the life force of adversaries for sustenance.
-- Regenerative Essence: Possesses the ability to regenerate itself by tapping into drained life energy.
+
+4 HP, 1 Armor, 10 STR, 10 DEX, 12 WIL, Life-Drain (d6)
+
+- Creature feeding on vital energy.
+- Capable of siphoning the life force of adversaries for sustenance.
+- Possesses the ability to regenerate itself by tapping into drained life energy.
 
