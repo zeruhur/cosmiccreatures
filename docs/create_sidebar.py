@@ -13,7 +13,7 @@ for file in files:
         name = name.title()
 
         # Sostituire gli spazi con %20 nel nome del file per l'URL
-        file_url = file.replace(" ", "%20")
+        file_url = "docs/" + file.replace(" ", "%20")
 
         sidebar_file.write(f"* [{name}]({file_url})\n")
 
