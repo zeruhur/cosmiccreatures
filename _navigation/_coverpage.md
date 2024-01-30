@@ -2,11 +2,9 @@
 
 # The Book of Cosmic Creatures
 
-## A tentative bestiary for Plerion and other sci-fi Cairn hacks
+## A bestiary for Plerion and other sci-fi Cairn hacks
 
-Intrepid spacers ply the vastness of the Five Galaxies in search of fortune and glory
-
-This is **Plerion**, a sci-fi hack from [*Cairn*](https://cairnrpg.com) designed to play rutilant space opera.
+CC BY-SA 4.0
 
 [GitHub](https://github.com/zeruhur/cosmiccreatures/)
 [Web SRD](/README.md)
