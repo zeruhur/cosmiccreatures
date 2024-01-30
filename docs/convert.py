@@ -54,7 +54,7 @@ def parse_markdown_files(folder):
             current_row = []
             for line in lines:
                 line = line.strip()
-                if line.startswith("#"):
+                if line.startswith("###"):
                     if current_row:
                         data.append(current_row)
                     current_row = [line[1:].strip()]
