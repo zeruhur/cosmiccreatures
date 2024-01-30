@@ -1,4 +1,5 @@
 ### Nano-Devastator
+
 6 HP, 1 Armor, 10 STR, 10 DEX, 12 WIL, Nanotech Weaponry (d6)
 
 - A living weapon created by autonomous nanomachines. Can transform into various weapon forms, such as sharp blades or energy cannons.

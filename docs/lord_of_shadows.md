@@ -1,8 +1,8 @@
 ### Lord of Shadows
 
-9 HP, 3 Armor, STR 10, DEX 12, WIL 14, Dark Energy Projectiles (d6, ranged)
+7 HP, 3 Armor, STR 10, DEX 12, WIL 14, Abyssal Projectiles (d6, ranged)
 
-- Dark Entity Possessing Mastery over Shadows. Can merge seamlessly with shadows, rendering itself almost invisible.
-- Shadow Conjuration: Capable of summoning shadowy creatures from the depths of darkness.
-- Abyssal Projectiles: Able to launch projectiles charged with dark energy for ranged assaults.
+- Dark entity possessing mastery over shadows. Can merge seamlessly with shadows, rendering itself almost invisible.
+- Capable of summoning shadowy creatures (2 HP, 10 STR/DEX/WILL, Shadow Clasw d6) from the depths of darkness.
+- Able to launch projectiles charged with dark energy for ranged assaults.
 

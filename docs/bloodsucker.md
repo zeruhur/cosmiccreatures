@@ -2,7 +2,7 @@
 
 4 HP, 1 Armor, 10 STR, 12 DEX, 8 WIL, Sharp Tentacles (d6)
 
-- Parasitic Entity Clinging to Life Forms. Attaches to living organisms to absorb their life energy for sustenance.
-- Swift Regeneration: Capable of swift self-healing by utilizing the absorbed life energy.
-- Tentacular Menace: Equipped with sharp tentacles for both attack and clinging.
+- Parasitic entity clinging to life forms. Attaches to living organisms to absorb their life energy for sustenance.
+- Capable of swift self-healing by utilizing the absorbed life energy.
+- Equipped with sharp tentacles for both attack and clinging.
 
